@@ -1,0 +1,99 @@
+https://wlai0611.shinyapps.io/multiregshiny/
+https://wlai0611.shinyapps.io/bayesshiny/
+
+Job Purpose Summary: The QMD is responsible for using pharmacometric best practices to support the development and analysis of model inputs and outputs. The QMD will focus on packaging pharmacometric and statistical modeling outputs into user-friendly graphical user interfaces (GUIs) to democratize model-informed drug development (MIDD) solutions developed as part of programmatic objectives of the Quantitative Medicine Program (QuantMed), as well as for the programmatic objectives of therapeutic-area consortia. This role is expected to work with varied modeling outputs, from which alternative simulation strategies will be assessed to inform optimal quantitative solutions . The position requires extensive cross functional collaborations working with a diverse team of clinical subject matter experts, clinical pharmacology experts, pharmacometricians, mathematicians, and statisticians. This individual will need the necessary scientific background, excellent communication skills as well as an ambitious mindset to help optimize the generation of MIDD solutions by facilitating the communication accessibility of those solutions to external partners and regulators.
+
+Essential Job Duties and Responsibilities:
+
+Knowledge management across QuantMed expertise lines: Support MIDD communications between the QuantMed expertise lines and consortia, to maximize knowledge integration
+
+
+Drive quality and efficiency: Work with program leaders and managers across functional teams to ensure expectations, timelines, and solutions are being met and communicated appropriately and timely.
+
+
+Dive into the data: Develop a comprehensive understanding of MIDD solutions and identify data gaps. Develop MIDD tools and applications to broaden data accessibility and facilitate communication.
+Produce high quality analyses and reports: Use efficient and effective ways of presenting and delivering results to maximize impact and interpretability while ensuring reproducibility; assist in the development of tables, legends and figures for regulatory reports, manuscripts, and general scientific communications.
+Serve as a technical resource within the QuantMed Program: foster learning and develop best practices for reporting of quantitative outputs; develop methods to translate MIDD solutions to provide the greatest impact and accessibility
+
+Education and Training:
+
+Masters's degree in Pharmacometrics, Statistics, Mathematics, Computer Science, or biostatistics.
+2+ years' experience in industry (pharmaceutical, CRO, biotechnology), healthcare, or academia preferred
+Knowledge/Skills/Abilities:
+
+Excellent organizational, interpersonal skills and problem solving/decision making skills
+Works well independently and in a team-oriented, collaborative environment
+Ability to effectively manage time, prepare for meetings, and prioritize project work
+Advanced knowledge of R programming language
+Experience wrangling, summarizing, and visualizing data in R
+Experience with Rshiny and modern R programming (tidyverse)
+Experience developing graphical user interfaces and applications
+Didactic training or experience in mixed-effects modeling and simulation is required
+Competency in other programming languages (Python, C++, Java, Perl, Fortran) is beneficial
+LOGITECH
+A Team player, Analytical, and Mathematical Working on a degree in one of the following majors: Mathematics, or Operations Research, or Computer Science with Data Science/ Machine Learning/artificial intelligence,
+data mining R (required) Phyton (optional)Fluency in the following R packages desired:Dplyr, RShiny, Random Forest, Caret Fluency in the following skills are added bonus: mathematical programming (LP, MIP), artificial neural networks, SQLC# or Java
+Fluency with major machine learning algorithms, random forest, support vector machine, multi-variate regression.
+
+WARNER BROS
+Conducting analysis in R/Python.
+Data manipulation with relational databases and SQL.
+Working in cloud based environments such as AWS.
+Learning machine learning and predictive modeling approaches such as Random Forest, GBM, xgBoost, neural networks/deep learning, etc.
+Creating data visualizations and communicating findings in reports and interactive tools (Rshiny).
+
+REGENERON
+Known for its scientific and operational excellence, Regeneron is a leading science-based biopharmaceutical company that discovers, invents, develops, manufactures, and commercializes medicines for the treatment of serious medical conditions. Regeneron commercializes medicines for eye diseases, high LDL-cholesterol, atopic dermatitis and a rare inflammatory condition and has product candidates in development in other areas of high unmet medical need, including rheumatoid arthritis, asthma, pain, cancer and infectious diseases.
+
+This position is in the Medical Analytics group within our Medical Affaris department in Tarrytown, NY.
+
+The intern will benefit from exposure to applied real-world problems in the pharmaceutical industry Medical Affairs setting, and contribute talent by providing state-of-the-art analytical methodology and skills to facilitate further understanding and characterization of Regeneron products and contribute to continued innovations in Medical Affairs Medical Analytics.
+The intern will be engaged in developing new analytical methods based on statistical questions from Regeneron studies and real world evidence study database by evaluating new methods proposed in the literature, novel applications of existing methodology, or sensitivity analyses and simulations to determine the robustness of proposed standard methods.
+In particular, this project will explore statistical methods in the area of machine learning.
+To qualify for this position, candidate should have/be able to: Solid background and skills in using the above stated machine learning algorithms (Decision Trees, Random Forest, Boosting, GUIDE, CHAID, Ridge Regression, Elastic Net); Proficient with information display via SAS graphic tools; Proficient with implementation of machine learning models via SAS, R, etc; Analyze statistical questions presented, generate creative solutions, use sound judgment and innovate; In-depth understanding of intrinsic/cohesive link between layers of information and dynamic graphic display for various types of endpoints; Collaborate effectively with mentor and colleagues within the Regeneron Medical Affairs organization.
+
+Start Building your Skills at Regeneron:
+
+• Must be a pursuing a PhD
+
+• Must be pursuing a degree in Biostatistics/Statistics/Data Science
+
+• Statistical Methodology: Strong knowledge of machine learning algorithms such as Dicision Trees, Random Forest, Boosting, GUIDE, CHAID, Ridge Regression, Elastic Net;
+
+• Statistical Programming Skills: Proficient with information display via SAS graphics and implementation of machine learning models via SAS and R;
+
+• Other: Understand CDISC data standards (SDTM & ADAM) is a plus; RShiny/R Markdown is a plus.
+
+General Intern Program Information:
+
+• Must be enrolled in, or accepted to, an academic program pursuing a Bachelor's, Master's, PhD or PharmD
+
+• Summer Program is full-time (~40 hrs/wk) for at least 10 weeks and is paid
+
+• Prefer demonstrated leadership in areas such as campus activities, clubs, sports or the community
+
+• Minimum GPA of 3.0
+
+• You will work with a specific manager on a project(s)
+
+• Enjoy weekly 1 hour Intern Program events: learn about other areas of the company from VPs and other employees, soft skills workshops, networking, volunteering, and more!
+
+• Present to your team on your summer project
+
+Transportation and Housing:
+
+• Housing stipend available for those students who meet mileage requirements
+
+• A free shuttle is offered from the North White Plains or Tarrytown train stations to the Tarrytown, NY or Sleepy Hollow, NY campuses
+
+• Get to know other incoming Interns on our closed LinkedIn page when you accept an offer
+
+This is an opportunity to join our select team that is already leading the way in the Pharmaceutical/Biotech industry. Apply today and learn more about Regeneron’s unwavering commitment to combining good science & good business.
+
+To all agencies: Please, no phone calls or emails to any employee of Regeneron about this opening. All resumes submitted by search firms/employment agencies to any employee at Regeneron via-email, the internet or in any form and/or method will be deemed the sole property of Regeneron, unless such search firms/employment agencies were engaged by Regeneron for this position and a valid agreement with Regeneron is in place. In the event a candidate who was submitted outside of the Regeneron agency engagement process is hired, no fee or payment of any kind will be paid.
+
+Regeneron is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability status, protected veteran status, or any other characteristic protected by law.
+Email this job
+To access this job from another computer, email this information to yourself or a friend.
+From Name
+To Email address
