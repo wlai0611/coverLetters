@@ -1,9 +1,12 @@
-Dear Sigmoid,
+Dear Rignet,
         My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Decision Science Data Analyst position as posted on Indeed.  Although I am living in New York, I am willing to relocate to Houston to take advantage of the learning experience from this opportunity.
   Let me explain why I would have good potential to succeed in this training program and job.
 
 	The intern is required to have working knowledge of data visualization tools.
-I am a Tableau Desktop Certified Associate.  I have used Tableau to create a dashboard that identifies under-served markets for a fictional beer company using Level of Detail calculations, set and parameter actions.  Furthermore, I have created a dashboard in RShiny, a web app created with R and Javascript, to help an analyst choose variables for a Naive Bayes classifier.  Action Buttons allow users to view the predictive performance of each variable if they were added to the model.  The app is here:
+I am a Tableau Desktop Certified Associate.  I have used Tableau to create a dashboard that identifies under-served markets for a fictional beer company using Level of Detail calculations, set and parameter actions.  The viz can be found here:
+https://public.tableau.com/profile/walter.lai#!/
+
+	  Furthermore, I have created a dashboard in RShiny, a web app created with R and Javascript, to help an analyst choose variables for a Naive Bayes classifier.  Action Buttons allow users to view the predictive performance of each variable if they were added to the model.  The app is here:
 https://wlai0611.shinyapps.io/bayesshiny/
 
 	The intern is required to have a working knowledge of Python, R and SQL.  I have previously worked as a Data Analyst at Brooklyn College's Cognitive Psychology Lab.  We used Python and R extensively for analyses of keyboard typing experiments.  I created a Python script that generates random paragraphs of text for a user to practice typing on using pandas, numpy and dictionaries on Spyder.  The script is available here:
