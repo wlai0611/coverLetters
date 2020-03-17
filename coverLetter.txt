@@ -1,5 +1,5 @@
 Dear Rignet,
-        My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Decision Science Data Analyst position as posted on Indeed.  Although I am living in New York, I am willing to relocate to Houston to take advantage of the learning experience from this opportunity.
+        My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Drilling Data Analyst position as posted on Indeed.  Although I am living in New York, I am willing to relocate to Houston to take advantage of the learning experience from this opportunity.
   Let me explain why I would have good potential to succeed in this training program and job.
 
 	The intern is required to have working knowledge of data visualization tools.
