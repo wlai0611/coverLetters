@@ -1,16 +1,19 @@
 Dear Sigmoid,
-        My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Junior Data Scientist (Entry Level) position as posted on Indeed.  Let me explain why I would have good potential to succeed in this training program and job.
+        My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Decision Science Data Analyst position as posted on Indeed.  Although I am living in New York, I am willing to relocate to Houston to take advantage of the learning experience from this opportunity.
+  Let me explain why I would have good potential to succeed in this training program and job.
 
- 	The posting indicated that the intern will need to build relationships with clients and help them make analytics-driven decisions.  I have extensive experience designing tools that help connect individuals without statistics backgrounds to their data.  I have created an R Shiny app, an interactive data science web app, that identifies the best variables to add for a Naive Bayes classifier to classify whether employees will quit their jobs.  Action buttons allow users to add and remove variables from a Naive Bayes classifier.  After each time a user adds or removes a variable, the app shows the cross validated Sensitivity and Specificity of all other explanatory variables if they were added to the model in a dot plot. 
-The app:  https://wlai0611.shinyapps.io/bayesshiny/
+	The intern is required to have working knowledge of data visualization tools.
+I am a Tableau Desktop Certified Associate.  I have used Tableau to create a dashboard that identifies under-served markets for a fictional beer company using Level of Detail calculations, set and parameter actions.  Furthermore, I have created a dashboard in RShiny, a web app created with R and Javascript, to help an analyst choose variables for a Naive Bayes classifier.  Action Buttons allow users to view the predictive performance of each variable if they were added to the model.  The app is here:
+https://wlai0611.shinyapps.io/bayesshiny/
 
-	The intern is required to have a problem solving mindset.  I have led a group of 4 other SMU students in Kaggle's "House Prices Advanced Regression Techniques" competition to score in the 18th percentile using multivariate regression.  Throughout the competition, I focused on the problem: minimizing prediction error of the model.  I created 
-a simple do-loop in SAS to iteratively calculate the prediction error (Root Mean Square Error) for every variable once it was added to the model.   This allowed our team to create the simplest model without using any boosting or gradient techniques which we did not learn yet.
-This is my kaggle profile: https://www.kaggle.com/walterlai 
-
-	Lastly, the intern is expected to be able to code.  I have previously worked as a Data Analyst at Brooklyn College's Cognitive Psychology Lab.  We used Python and R extensively for analyses of keyboard typing experiments.  I created a Python script that generates random paragraphs of text for a user to practice typing on using pandas, numpy and dictionaries on Spyder.  The script is available here:
+	The intern is required to have a working knowledge of Python, R and SQL.  I have previously worked as a Data Analyst at Brooklyn College's Cognitive Psychology Lab.  We used Python and R extensively for analyses of keyboard typing experiments.  I created a Python script that generates random paragraphs of text for a user to practice typing on using pandas, numpy and dictionaries on Spyder.  The script is available here:
   https://github.com/wlai0611/letterFrequencyTextGenerator	
-	  
-	I would love to join your team!  Please email me at walterlaicollege@gmail.com.
+
+	Furthermore as a data analyst, I used Firebase to create a database to store typing data from keyboard typing experiments in this RShiny web app:
+https://walterlai.shinyapps.io/devapp/
+Additionally, I passed Microsoft's Querying SQL Server 2012/2014 Exam with an 800/1000.
+I am constantly trying to learn more about data management and am eager to relocate to Houston to join the team.
+
+	I would love to work with you!  Please email me at walterlaicollege@gmail.com.
 
 Walter Lai 	
