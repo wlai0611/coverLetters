@@ -1,8 +1,8 @@
-Dear Mobolutions,
-        My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Data Analyst position as posted on Indeed.  I would like to work here because I enjoy helping professionals generate insights from their data.  Let me explain why I am a good fit for this job.
+Dear Prime Source Building Production Inc.,
+        My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Business Analytics Contractor position as posted on Indeed.  I would like to work here because I enjoy helping professionals generate insights from their data.  Let me explain why I am a good fit for this job.
 
 	The intern is required to have working knowledge of data visualization tools.
-I am a Tableau Desktop Certified Associate.  I have used Tableau to create a dashboard that identifies under-served markets for a fictional beer company using Level of Detail calculations, set and parameter actions.  I have deeply enjoyed connecting to many different data sources and easily exploring relationships.  The viz can be found here:
+I am a Tableau Desktop Certified Associate.  I have used Tableau to create a dashboard that identifies under-served markets for a fictional beer company using Level of Detail calculations, set and parameter actions.  I have deeply enjoyed connecting to many different data sources and easily exploring relationships and would love to do so with your data.  The viz can be found here:
 https://public.tableau.com/profile/walter.lai#!/
 
 	  Furthermore, I have created a dashboard in RShiny, a web app created with R and Javascript, to help an analyst choose variables for a Naive Bayes classifier.  Action Buttons allow users to view the predictive performance of each variable if they were added to the model.  I used dplyr, ggplot2, tidyr and naiveBayes to produce this.  The app is here:
