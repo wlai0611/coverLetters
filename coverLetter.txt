@@ -1,13 +1,20 @@
-Dear Regeneron,
-        My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the _ position as posted on Indeed.  I am really passionate about predictive modeling and data visualization and would love to work with the Medical Analytics group to aid in innovation and communication.
- 
-	The intern is required to implement machine learning models in R.  I have created an R Shiny app
-that identifies the best variables to add for a Naive Bayes classifier to classify whether employees will quit their jobs.  Action buttons allow users to add and remove variables from a Naive Bayes classifier.  After each time a user adds or removes a variable, the app shows the 10 fold cross validated Sensitivity and Specificity of all other explanatory variables if they were added to the model in a dot plot. 
-The app:  https://wlai0611.shinyapps.io/bayesshiny/
+Dear JPS Health Network,
+        My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Data Analyst position as posted on Indeed.  I apply to this job because I have previous experience in an academic research setting and hope to further develop my experimental research capabilities.
+Please let me explain why I am a great fit for the role! 
+	The posting indicated a need for R experience.  My current Master's program has greatly improved my R abilities.  I have created an R Shiny app
+that identifies the best variables to add to a multiple regression model 
+that predicts the salaries of employees based on demographic features.  
+Action buttons allow users to add and remove variables from the regression model.  
+After each time a user adds or removes a variable the app suggests potential explanatory variables that would improve salary prediction.  The app shows partial residual plots for new variables controlling for the current model's variables.
+The app:  https://wlai0611.shinyapps.io/multiregshiny/
 
-	The intern is required to have a background in predictive modeling and visualization in SAS.  I have led a group of 4 other SMU students in Kaggle's "House Prices Advanced Regression Techniques" competition to score in the 18th percentile using only multivariate regression techniques and 15 submissions.  We used SAS for our analyses and utilized PROC GLMSELECT's stepwise selection and PROC REG's diagnostic plots to select the best variables and address influential observations for our predictive model.  I created a do-loop in SAS to iteratively calculate the Root Mean Square Error for every variable once it was added to the model.   
-	  
-	Finally, my Bachelor's of Arts in Chemistry sparked my interest in drug disccovery.  I am fascinated by how the structure of chemical compounds can influence the body and their utility in curing diseases.  I want to make a difference and I feel Regeneron has a track record of helping those in need.  
+	Data dictionaries and data preparation were among the typical duties of the data analyst.  I have participated in a Kaggle tournament with a team of 4 other SMU students.
+Kaggle's "House Prices Advanced Regression Techniques" required competitors to predict the house prices of a test set given certain features of the house.
+ The Kaggle dataset of housing prices required extensive cleaning and recoding.  We used SAS's PROC STDIZE to impute missing values and we used data dictionaries and PROC SQL to recode ordinal variables.  We also utilized PROC GLMSELECT's stepwise selection and PROC REG's diagnostic plots to select the best variables and address influential observations for our predictive model.  I also created a do-loop in SAS to iteratively calculate the Root Mean Square Error for every variable once it was added to the model.  Our attention to detail earned us a score in the top 18th percentile out of 4600 competitors with a multiple regression model to predict house prices.  
+
+	I also have experience as a research assistant at Brooklyn College's Cognitive Psychology Department for one year.  As a research assistant, I used R's dplyr and ggplot2 to manipulate and visualize data from keyboard typing experiments.  I coauthored a paper 
+in the Canadian Journal of Experimental Psychology in which I interpretted the results of a simple linear regression of typing speed against a linguistic metric of text:
+https://www.researchgate.net/publication/327456467_Instance_theory_predicts_information_theory_Episodic_uncertainty_as_a_determinant_of_keystroke_dynamics  
 	
 	I would love to join your team!  Please email me at walterlaicollege@gmail.com.
 
