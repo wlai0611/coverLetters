@@ -1,8 +1,8 @@
-Dear Brooksource,
+Dear Abercrombie and Fitch Co.,
  
-       	My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Jr. Data Analyst (Python, R, SQL) position as posted on Indeed.  I am really passionate about dashboards and data visualization and would love to work with your team.  Please let me explain how I am a great candidate.
+       	My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Associate  Analyst, Digital Analytics position as posted on Indeed.  I am really passionate about dashboards and data visualization and would love to work with your team.  Please let me explain how I am a great candidate.
 
- 	One of the requirements is proficiency in R.  I have created an R Shiny app that identifies the best variables to add to a multiple regression model that predicts the salaries of employees based on demographic features.  Action buttons allow users to add and remove variables from the regression model.  After each time a user adds or removes a variable the app suggests potential explanatory variables that would improve salary prediction.  The app shows partial residual plots for new variables controlling for the current model's variables.
+ 	One of the requirements is experience with R.  I have created an R Shiny app that identifies the best variables to add to a multiple regression model that predicts the salaries of employees based on demographic features.  Action buttons allow users to add and remove variables from the regression model.  After each time a user adds or removes a variable the app suggests potential explanatory variables that would improve salary prediction.  The app shows partial residual plots for new variables controlling for the current model's variables.
 The app:  https://wlai0611.shinyapps.io/multiregshiny/	 
 
 	As further proof of R proficiency, I have created an R Shiny app that identifies the best variables to add for a Naive Bayes classifier to classify whether employees will quit their jobs.  Action buttons allow users to add and remove variables from a Naive Bayes classifier.  After each time a user adds or removes a variable, the app shows the cross validated Sensitivity and Specificity of all other explanatory variables if they were added to the model in a dot plot. 
@@ -11,7 +11,7 @@ The app:  https://wlai0611.shinyapps.io/bayesshiny/
 	The intern is required to have proficiency in Python.  I have previously worked as a Data Analyst at Brooklyn College's Cognitive Psychology Lab.  We used Python and R extensively for analyses of keyboard typing experiments.  I created a Python script that generates random paragraphs of text for a user to practice typing on using pandas, numpy and dictionaries on Spyder.  The script is available here:
   https://github.com/wlai0611/letterFrequencyTextGenerator	
 
-	Regarding databases, I used Firebase to create a database to store typing data from a RShiny web app that helps people improve typing speed and accuracy:
+	Regarding SQL, I used Firebase to create a NoSQL database to store typing data from a RShiny web app that helps people improve typing speed and accuracy:
 https://walterlai.shinyapps.io/devapp/
 Additionally, I passed Microsoft's Querying SQL Server 2012/2014 Exam with an 800/1000.
 I am constantly trying to learn more about data management and am eager to relocate to join the team.
