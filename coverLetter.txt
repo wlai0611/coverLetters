@@ -1,5 +1,5 @@
-Dear Alliant Health,
-        My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Data Analytics Intern position as posted on Indeed.  I am really passionate about predictive modeling, data visualization and health policy and would love to work with your team.  Please let me explain how I am a great candidate.
+Dear Health One Alliance,
+        My name is Walter Lai, a student in the Master's of Data Science Program at Southern Methodist University.  Please consider this letter as my cover letter for the Alliant Health Plans Data Analytics Internship position as posted on Indeed.  I am really passionate about predictive modeling, data visualization and health policy and would love to work with your team.  Please let me explain how I am a great candidate.
  	One of the basic requirements is understanding of statistical methods, with programming experience in R or SAS preferred.  I have created an R Shiny app that identifies the best variables to add to a multiple regression model that predicts the salaries of employees based on demographic features.  Action buttons allow users to add and remove variables from the regression model.  After each time a user adds or removes a variable the app suggests potential explanatory variables that would improve salary prediction.  The app shows partial residual plots for new variables controlling for the current model's variables.
 The app:  https://wlai0611.shinyapps.io/multiregshiny/	 
 
