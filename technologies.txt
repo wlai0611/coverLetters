@@ -14,3 +14,5 @@ I am constantly trying to learn more about data management and am eager to reloc
 
 I am a Tableau Desktop Certified Associate.  I have used Tableau to create a dashboard that identifies under-served markets for a fictional beer company using Level of Detail calculations, set and parameter actions.  I have deeply enjoyed connecting to many different data sources and easily exploring relationships.  The viz can be found here:
 https://public.tableau.com/profile/walter.lai#!/
+
+I have led a group of 4 other SMU students in Kaggle's "House Prices Advanced Regression Techniques" competition to score in the 18th percentile using only multivariate regression techniques and 15 submissions.  We used SAS for our analyses and utilized PROC GLMSELECT's stepwise selection and PROC REG's diagnostic plots to select the best variables and address influential observations for our predictive model.  I created a do-loop in SAS to iteratively calculate the Root Mean Square Error for every variable once it was added to the model.   
